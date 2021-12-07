@@ -6,7 +6,7 @@ import { JwplayerView } from 'react-native-jwplayer';
 export default function App() {
   return (
     <View style={styles.container}>
-      <JwplayerViewManager color="#32a852" style={styles.box} />
+      <JwplayerView color="#32a852" style={styles.box} />
     </View>
   );
 }

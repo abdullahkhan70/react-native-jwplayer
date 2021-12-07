@@ -1,6 +1,6 @@
 {
   "name": "react-native-jwplayer",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "This library will allow the developers to use JWPlayer in their app.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -143,5 +143,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
   }
 }

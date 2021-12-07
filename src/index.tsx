@@ -16,7 +16,7 @@ type JwplayerProps = {
   style: ViewStyle;
 };
 
-const ComponentName = 'JwplayerView';
+const ComponentName = 'Jwplayerview';
 
 export const JwplayerView =
   UIManager.getViewManagerConfig(ComponentName) != null
